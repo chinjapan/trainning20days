@@ -7,5 +7,5 @@ import com.bookstore.model.bookinfor;
 
 @Repository
 public interface bookinforrepository extends JpaRepository<bookinfor, Long> {
-
+	
 }
