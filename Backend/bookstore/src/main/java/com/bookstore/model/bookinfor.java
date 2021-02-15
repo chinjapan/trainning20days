@@ -65,7 +65,7 @@ public class bookinfor {
 	public void createdate(String createdate) {
 		this.createdate = createdate;
 	}
-	public long getCost() {
+	public double  getCost() {
 		return cost;
 	}
 	public void setCost(long cost) {
